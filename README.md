@@ -1,4 +1,4 @@
-# Conditional Generative Adverserial Network
+# Conditional Generative Adversarial Network
 
 This is my implementation of a cGAN trained on MNIST, and is my first generative model. The discriminator's architecture is a CNN.
 
